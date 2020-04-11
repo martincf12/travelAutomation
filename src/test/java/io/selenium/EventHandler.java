@@ -1,4 +1,4 @@
-package selenium;
+package io.selenium;
 
 import java.util.Arrays;
 
